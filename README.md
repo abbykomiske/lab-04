@@ -1,6 +1,6 @@
 # Lab 04: Scaffolding reproducible research
 
-Hello world!
+Hello world! 
 
 ## Preparation
 

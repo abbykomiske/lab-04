@@ -1,5 +1,15 @@
 ---
 title: Lab 04
 author: Abby Komiske 
-format: pdf
+format: html 
 ---
+
+# Reproducible research
+
+- When we say "reproducible research", what do we mean?
+-  What is the difference between the 'computing environment' and the 'project structure'?
+- How does Git and GitHub support reproducible research practices?
+
+# Project management
+
+describe the process of forking, cloning, editing, committing, and pushing changes to a repository ([Scenario A](https://qtalr.github.io/qtalrkit/articles/recipe-4.html)). Create a step-by-step guide that you can use to refer back to in the future
