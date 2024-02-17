@@ -1,5 +1,5 @@
 ---
-title: Lab 04
+title: Scaffolding reproducible research
 author: Abby Komiske 
 format: html 
 ---
@@ -7,9 +7,55 @@ format: html
 # Reproducible research
 
 - When we say "reproducible research", what do we mean?
+
+Reproducible research is research that is conducted with storing and sharing the things necessary for someone else to reproduce and test/add to. Thus, reproducible projects have a computing environment and a project structure. 
+
 -  What is the difference between the 'computing environment' and the 'project structure'?
+
+The computing environment is the hardware, operating system, and software that is used to do the work. In comparison, the project structure is the organization of the files and folders that make up our project.
+
 - How does Git and GitHub support reproducible research practices?
 
-# Project management
+Git is a version control system that allows one to track changes to project files by creating repositories. Github is a cloud-based remote repository that allows one to store the git-tracked projects online. Together Git and Github can create remote repositories and upload one's local repositories to them as well as download remote repositories to one's own computing environment. In this way, they allow one to create reproducible research effectively and efficiently.  
 
-describe the process of forking, cloning, editing, committing, and pushing changes to a repository ([Scenario A](https://qtalr.github.io/qtalrkit/articles/recipe-4.html)). Create a step-by-step guide that you can use to refer back to in the future
+## Project management
+
+First, one must fork (copy) the remote repository to one's Github account before cloning it to one's computing environment. From there, one can make any edits (changes, additions, deletions, etc.) necessary. Then, one commits (log edits) changes to the git tracking system and then push (sync) the changes to one's remote repository. This information can all be accessed from ([Scenario A](https://qtalr.github.io/qtalrkit/articles/recipe-4.html)). 
+
+To see it step-by-step:
+
+1. Fork the repository to your own Github account
+
+2. Clone the repository to your local machine
+
+3. Open the README file and complete the lab activity
+
+4. Commit and push your changes to your forked repository
+
+5. Submit a link to your updated GitHub repository to Canvas
+
+6. Get feedback 
+
+**When in doubt, post your question or link to the GitHub repository in the [Discussions section](https://github.com/orgs/lin-380-s24/discussions) of the `lin-380-s24` organization on GitHub.**
+
+### Assessing your progress
+
+What did you learn?
+
+I learned how forking, cloning, editing, committing, and pushing changes to a repository works. 
+
+What did you find most/ least challenging?
+
+I found the setup most challenging, but I understand the concept. I am sure soon I will be able to add these skills to my repository quickly.
+
+What resources did you consult?
+
+I used the intructor and ([Understanding the computing environment](https://qtalr.github.io/qtalrkit/articles/recipe-4.html))
+ 
+What more would you like to know about reproducible research and/ or Git and GitHub?
+
+[Wiingy Guide](https://wiingy.com/learn/r-studio/reproducible-research-in-rstudio/) provides additional resources and information regarding making good reproducible research. 
+[GitHub's Information on RR](https://geanders.github.io/RProgrammingForResearch/reproducible-research-1.html) is also helpful in describing reproducible research.  
+
+#### References
+
