@@ -12,7 +12,7 @@ Reproducible research is research that is conducted with storing and sharing the
 
 -  What is the difference between the 'computing environment' and the 'project structure'?
 
-The computing environment is the hardware, operating system, and software that is used to do the work. In comparison, the project structure is the organization of the files and folders that make up our project.
+The computing environment is the hardware, operating system, and software that is used to do the work. In comparison, the project structure is the organization of the files and folders that make up a project.
 
 - How does Git and GitHub support reproducible research practices?
 
